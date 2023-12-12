@@ -9,5 +9,9 @@ namespace bt_5_12
     internal class Teacher
     {
         int a = 10;
+<<<<<<< HEAD
+=======
+        int b = 20;
+>>>>>>> V5
     }
 }

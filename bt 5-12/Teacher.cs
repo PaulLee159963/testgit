@@ -8,5 +8,7 @@ namespace bt_5_12
 {
     internal class Teacher
     {
+        int a = 10;
+        int b = 20;
     }
 }
